@@ -1,4 +1,4 @@
-Farming equipment rental application
+# Farming equipment rental application
 
 Explanation of Key Files and Folders
 .gitignore
